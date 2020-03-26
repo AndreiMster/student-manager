@@ -19,7 +19,6 @@ public class Student {
         //toString generated implementation
         return firstName + lastName;
     }
-
     @Override
     public boolean equals(Object o) {
         //equals generated implementation
